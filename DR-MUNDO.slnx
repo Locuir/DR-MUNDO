@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="DR-MUNDO.esproj">
+    <Build />
+    <Deploy />
+  </Project>
+</Solution>
